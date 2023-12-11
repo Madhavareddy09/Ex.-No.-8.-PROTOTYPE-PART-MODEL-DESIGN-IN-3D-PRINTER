@@ -6,8 +6,7 @@
 
 ## REQUIREMENTS:
 ### ●	3D Printer machine.
-### ●	CURA 4.0 Software.
-### ●	Autodesk Fusion 360 Software.
+### ●	CURA 5.5.0 Software
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
